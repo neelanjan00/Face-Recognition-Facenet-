@@ -11,4 +11,4 @@ Add your images to the faces-dataset folder for training via webcam, with the co
 Train the dataset using the command "python TrainModel.py"
 
 ## 3. Test the model
-Test the model on any test image with the command "python PredictFaces.py --image <path-to-the-test-image-here>"
+Test the model on any test image with the command "python PredictFaces.py --image 'path-to-the-test-image-here' "
